@@ -1,0 +1,7 @@
+TRUNK-
+|-Branches
+|--apt. LCARS Linux branch adding dpkg and apt
+|-Master
+|--Stable. Most stable LCARS Linux
+|--Testing. Testing, but most recent LCARS linux
+|filestructure.txt
