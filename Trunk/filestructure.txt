@@ -1,7 +1,5 @@
 TRUNK-
-|-Branches
-|--apt. LCARS Linux branch adding dpkg and apt
 |-Master
-|--Stable. Most stable LCARS Linux
-|--Testing. Testing, but most recent LCARS linux
+|-Toolchain
+|--tools.tar- The current toolchain used to compile new builds of LCARS Linux
 |filestructure.txt
